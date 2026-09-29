@@ -1,0 +1,70 @@
+{
+    "shuffle": true,
+    "upBanner": {
+        "clickLink": "https://ad.tlauncher.org/link/tmon-additional-link-page-bonus",
+        "image": "http://repo.tlauncher.ru/update/downloads/configs/client/images/upBanner.png",
+        "mouseOnImage": "http://repo.tlauncher.ru/update/downloads/configs/client/images/upBannerActive.png"
+    },
+    "downBanner": {
+        "clickLink": "https://ad.tlauncher.org/link/tmon-additional-link-page",
+        "image": "http://repo.tlauncher.ru/update/downloads/configs/client/images/downBanner.png",
+        "mouseOnImage": "http://repo.tlauncher.ru/update/downloads/configs/client/images/downBannerActive.png"
+    },
+    "list": [
+        {
+            "imageNumber": 0,
+            "active": true,
+            "shortDescription": "BoxPvP",
+            "addDescription": "BoxPvP, SkyPvP, \u0436\u0451\u0441\u0442\u043a\u043e\u0435 \u043f\u0432\u043f \u0441 \u043d\u0443\u0431\u0430\u043c\u0438 /free",
+            "versionDescription": "1.16.4+",
+            "serverId": "pro.enderix.ru_page",
+            "address": "pro.enderix.ru:25565",
+            "minVersion": "1.16.4",
+            "ignoreVersions": [
+                "latest-release",
+                "26.2",
+                "Fabric 26.2",
+                "Quilt 26.2",
+                "QuiltSodium 26.2",
+                "Forge 26.2",
+                "OptiFine 26.2",
+                "ForgeOptiFine 26.2",
+                "26.1.2",
+                "Fabric 26.1.2",
+                "Quilt 26.1.2",
+                "QuiltSodium 26.1.2",
+                "Forge 26.1.2",
+                "OptiFine 26.1.2",
+                "ForgeOptiFine 26.1.2",
+                "26.1.1",
+                "Fabric 26.1.1",
+                "Quilt 26.1.1",
+                "QuiltSodium 26.1.1",
+                "Forge 26.1.1",
+                "OptiFine 26.1.1",
+                "ForgeOptiFine 26.1.1",
+                "26.1",
+                "Fabric 26.1",
+                "Quilt 26.1",
+                "QuiltSodium 26.1",
+                "Forge 26.1",
+                "OptiFine 26.1",
+                "ForgeOptiFine 26.1",
+                "FabricSodium 1.16.1",
+                "FabricSodium 1.16.2",
+                "FabricSodium 1.16.3",
+                "FabricSodium 1.16.4",
+                "FabricSodium 1.16.5",
+                "FabricSodium 1.17.1",
+                "FabricSodium 1.18",
+                "FabricSodium 1.18.1",
+                "FabricSodium 1.18.2",
+                "FabricSodium 1.19",
+                "FabricSodium 1.19.2",
+                "FabricSodium 1.19.3",
+                "FabricSodium 1.19.4"
+            ],
+            "includeVersions": []
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+/* This style file is designed for styling  org.tlauncher.tlauncher.ui.browser.BrowserSimplePanel.java */
+body {
+    margin: 0 !important;
+    overflow-x: hidden;
+    box-sizing: border-box;
+    /*place the content in the center*/
+    padding-top: 10px !important;
+    padding-left: clamp(16px, 5vw, 180px) !important;
+    padding-right: clamp(16px, 5vw, 180px) !important;
+}
+img {/*customization img tag*/
+    display: block !important;      
+    margin: 0 auto !important;      
+}
+
+#wrapper, .container, .content, main, article {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+table, img {
+    max-width: 100%;
+    box-sizing: border-box;
+}
+table {
+    margin: 0 auto;
+}
+
+::-webkit-scrollbar {
+    width: 13px;
+}
+::-webkit-scrollbar-track  {
+    background-color: #D7D7D7;
+    background-radius: 5px;
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background: #B6B6B6;
+}
+::-webkit-scrollbar-thumb:vertical {
+    min-height: 76px;
+}

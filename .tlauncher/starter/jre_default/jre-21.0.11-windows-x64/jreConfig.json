@@ -1,0 +1,1823 @@
+{
+  "resources": [
+    {
+      "sha1": "94496aecc9ca1c38bce35a87201b53c8512ccd8b",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-console-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "35faa81d795fcedcb1ccffb19b75ae84fb8577af",
+      "size": 22056,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-console-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "13088aa1ddcd513053730975c56c3eee50e9c541",
+      "size": 22072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-datetime-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "b053a07320ae33fb28a0848e5074a6ff3bc89b9f",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-debug-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "d910c426f12e60978738e4c36c036d62bb3009d6",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "81e8d5e79c411cc2fd870ead764eb53ded34f3ce",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-fibers-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "6b6ee384a4d7df4eb8e9ab60dfea1d4b62bea922",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-fibers-l1-1-1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "8b3f6b9ca8da827d04a5d792414fd1f356284dca",
+      "size": 26192,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-file-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "fb847743919b14904144b463cba1700d14d60b8c",
+      "size": 22064,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-file-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "d57d80b9377fc522e326b4c8a3b819fba3d6396d",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-file-l2-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "82a3be04ed265d08806f288d1762a48ec08d6add",
+      "size": 22072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-handle-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "90a02c9dc84531cf172f0ded67c686cd828552c7",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-heap-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "72975520c648621def2037b449dbb350411554bb",
+      "size": 22056,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-interlocked-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "0f43a140ac8b95a061c30c0698328f8888e5447c",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-kernel32-legacy-l1-1-1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1701b3038c03bf0e707eb3b098bbd5d29955a2b8",
+      "size": 22056,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "abdb792e85a0f29b9a2dec0b56e32aa023c363ad",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-localization-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "145dd44d90759cedf2f7db47065735b0cc3384f6",
+      "size": 22072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-memory-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "f46b1c6d5858183f55df96e96060aad3af0b2e52",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "eb3670dd439cbbc6a8223e1d9e09e68c94e7060a",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "c26dce69a0587252c16f293701d749180539cad4",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-processthreads-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "e03e80eac8c6c1dfe47a909d3568768b4e71c4e9",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-processthreads-l1-1-1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a04d9639bbacfc361cf4f35a0a6431a77d4409fe",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-profile-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "ae90394c90c5988e0b7455a14cdfb44b36d5612b",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "69321ff56a28c38cb139cbecf65c31dae5dd75af",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-string-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1c11247c916b160f677197ade12344e811dcef41",
+      "size": 22072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-synch-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "6fe438d4718762b039042d6d061a88b09ba8d265",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-synch-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1eb69bac1e6ea06fa02d53f2023ab68768ec5142",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "d07029d9b05eb89c9e3b12215f64d5d7e811eb0d",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-sysinfo-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "5dfdce8c77dee9755a67d25c1b58583333a93475",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-timezone-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "6a5624443a7e49cc3aff9dc4ef5bd254cf6657a7",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-core-util-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "86a57f67d8398d0aa0b1b4f3e8fc190887009143",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-conio-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "b7572485a312ba7a228d0a3c1ad118a6187f88e6",
+      "size": 26192,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-convert-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "10680e48e128b348bcf22ec87de68acb36749def",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-environment-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a2980aceeeee25f462a0b440da16a17ab719cbfc",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "266511422f8d52a6fee8d40c7e9436ce2bebbde8",
+      "size": 22072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-heap-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a882980356e9d6f65d83ccb0ca95bd26c66bd1ae",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-locale-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a9d0904404f1f8454cee19551e0e20afe04287e8",
+      "size": 30272,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-math-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "3f4e20d7df62fa1afa29f77a104ca72ac1c16491",
+      "size": 30288,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-multibyte-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "9aecf78e4a64d497852cc61b55c9c4e7738e7de5",
+      "size": 75344,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-private-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1e5cc4034695bcbecce085a911389592c12d4535",
+      "size": 22080,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-process-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "ade7ffa3482e68127d1d8494e11337088a0616e4",
+      "size": 26192,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-runtime-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "c77396fc5c699c2fd22e586e28a99e2cacbf0bed",
+      "size": 26192,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-stdio-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "b361369f57086675d5481a93dfde65c971aafa13",
+      "size": 26192,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-string-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a326f3ce8542f65e58b1c154af9bc5ba232a26fb",
+      "size": 22072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-time-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a8dbc99d525b71ca53860991fba3fe10f67343de",
+      "size": 22096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/api-ms-win-crt-utility-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "3c5c40aaca8e4b633c50f88a23b9b587d1581784",
+      "size": 1505448,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/awt.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a753e085f48e27e3146dd9e90ba93526dc4219c4",
+      "size": 24744,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/extnet.dll",
+      "executable": false
+    },
+    {
+      "sha1": "188a2d675837e987bda613a0a861bbc0bb285894",
+      "size": 972456,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/fontmanager.dll",
+      "executable": false
+    },
+    {
+      "sha1": "cf2128f7a08a9bb5a87cfe65e287e37387adc8b5",
+      "size": 562856,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/freetype.dll",
+      "executable": false
+    },
+    {
+      "sha1": "d738d2be4adff3e31c8e8205985e9670e79d163d",
+      "size": 52904,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/instrument.dll",
+      "executable": false
+    },
+    {
+      "sha1": "801806b265b2a7fa8bfae5a0d6a87d117cdd948b",
+      "size": 51880,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/j2gss.dll",
+      "executable": false
+    },
+    {
+      "sha1": "ee9825efdc1acb16fca6b6ac814e2984166b50e6",
+      "size": 83624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/j2pkcs11.dll",
+      "executable": false
+    },
+    {
+      "sha1": "bd3eaa95674b70bcb9ed838d71d519df2b4d0f06",
+      "size": 45736,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jabswitch.exe",
+      "executable": false
+    },
+    {
+      "sha1": "44bc00c39302d351c7c25c458fa629a0fc0d69c7",
+      "size": 106152,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jaccessinspector.exe",
+      "executable": false
+    },
+    {
+      "sha1": "2c28054a3de0d00f5f31cba43ae684c3ddb1cc76",
+      "size": 71336,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jaccesswalker.exe",
+      "executable": false
+    },
+    {
+      "sha1": "9d6bd74e795afe5db3dc651c802773ba4f01a235",
+      "size": 124072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/java.dll",
+      "executable": false
+    },
+    {
+      "sha1": "e46a31774038e40ee6df68df76a2509010937883",
+      "size": 54952,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/java.exe",
+      "executable": false
+    },
+    {
+      "sha1": "345c64c796a3ea278bea09cbb701764c626d7395",
+      "size": 313000,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javaaccessbridge.dll",
+      "executable": false
+    },
+    {
+      "sha1": "ae69723c2540eb1c13ef047c3df25e103e6ec1d9",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-console-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1aa8579aa13d4075c4082245317cb1dcc4ba6b4e",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-datetime-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "53b1fe15e7a9800456f063e8dbd11f240f6095a3",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-debug-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "aa2cd6fab320643eaeb41303d5b3a802cd2365da",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-errorhandling-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "714ff49459f0c0743d2d8c6784e6d28ea7f81599",
+      "size": 22208,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-file-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "03f2b5b848a51ee52980bf8595c559b89865de07",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-file-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2cfc0c379fd7f23db64d15bdff2925778ff65188",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-file-l2-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2890a554fd106cc6572213e55c3a932be6eaadcd",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-handle-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "79abb1976f249f6b45014fd692af6fca4e3ded06",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-heap-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "5f4543e008cbe86c0f14e2bfc2f803cf38d34c40",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-interlocked-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "fe55ffef83601f654504f0a2256e11e1913635db",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-libraryloader-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2532af7a64ef4b5154752f61290dcf9ebeea290f",
+      "size": 21184,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-localization-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "c196d43f13c6bf8f0596e3c9b9f54a555099ed48",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-memory-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "dd5831226ba1ed697cb1b74b3a4136ca17aba19a",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-namedpipe-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1fbd4fc3c3edae151ee2d4ad4861a6667a736f44",
+      "size": 19648,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-processenvironment-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "8c96972da78b6424958cf976dc7313497ebeaeb5",
+      "size": 20672,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-processthreads-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "7285f85440b6eff8731943b73502f58ae40e95a2",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-processthreads-l1-1-1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "7f3f9d5875ef3c2d79667a1231d85d9eb619fbc9",
+      "size": 18112,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-profile-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "d2d1004fbecb1e25f26da7a6a3d8f7a87fb1ee7a",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-rtlsupport-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "52d0bb8eea87682adf4ab77b45b5bc71d9545170",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-string-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "98ca55d28ae0e9d5609a5d586c8054285ffedf89",
+      "size": 20672,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-synch-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "c65599def1e69aed55ea557847d78bb3717d1d62",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-synch-l1-2-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2e15e1f76a8128584b48b742f03e0bb11eccddee",
+      "size": 19648,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-sysinfo-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2a379a1ac406f70002f200e1af4fed95b62e7cb8",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-timezone-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "e583b12a9d1463eb05d847e623d5a39d38d055c6",
+      "size": 18624,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-core-util-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2a175cea6f80ebe468d71260afb88da98df43bed",
+      "size": 19648,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-conio-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "a13adfc0d03bb06d4a8fe7fb4516f3e21258c333",
+      "size": 22720,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-convert-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "bae2925776e15081f445fbdd708e0179869b126d",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-environment-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "dfed2b210e65d61bf08847477a28a09b7765e900",
+      "size": 20672,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-filesystem-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "0da61111b1e3dbb957162705aa2dbc4e693efb35",
+      "size": 19648,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-heap-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "b81f1639d62dfc7be7ae4d51dd3fae7f29a1a297",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-locale-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "85cf4c4a59f3b0442cdc346956b377bae5b9ca76",
+      "size": 27840,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-math-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "223224c883db39d060181d0b5cf03f2e2ef2e878",
+      "size": 26816,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-multibyte-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1c1b672759c2922082da07af77f0769d27e2e9aa",
+      "size": 70848,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-private-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "1ccdc9443bae71a5455eff93a304eae16f087be7",
+      "size": 19648,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-process-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "427ea01fc015a67ffd057a0e07166b7cd595dcfd",
+      "size": 23232,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-runtime-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "af60bcca74f5b4b65c2b322ac7a5cedb9609c238",
+      "size": 24768,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-stdio-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "47f9d89ea1694b94f4f8c5558311a915eca45379",
+      "size": 24768,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-string-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "c88117f16a0ae4ccb4f3d3c8e733d213de654b04",
+      "size": 21184,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-time-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "0e717f3ab9ccf1826a61eeccda9551d122730713",
+      "size": 19136,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/api-ms-win-crt-utility-l1-1-0.dll",
+      "executable": false
+    },
+    {
+      "sha1": "8b50e4112d2de64c5f4cbc72f37e7a56c66602b3",
+      "size": 81408,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/decora_sse.dll",
+      "executable": false
+    },
+    {
+      "sha1": "8575e43a69eed99827390f172de87ce8c4b90ae7",
+      "size": 128000,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/fxplugins.dll",
+      "executable": false
+    },
+    {
+      "sha1": "9ca1b4c111c22585c46f7757bdda9fa4277fe5d7",
+      "size": 254464,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/glass.dll",
+      "executable": false
+    },
+    {
+      "sha1": "9669df029c076ece1168de77f4822d4a495338a1",
+      "size": 642560,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/glib-lite.dll",
+      "executable": false
+    },
+    {
+      "sha1": "79935f1ae1fbb550a070164c84d23823dd4c9d77",
+      "size": 1005568,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/gstreamer-lite.dll",
+      "executable": false
+    },
+    {
+      "sha1": "6af01dd50ec57db53b31689fa69aed8a19f1fd12",
+      "size": 68096,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/javafx_font.dll",
+      "executable": false
+    },
+    {
+      "sha1": "318a8a7ecaf51c271545459b9c69a50d24582bf6",
+      "size": 161792,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/javafx_iio.dll",
+      "executable": false
+    },
+    {
+      "sha1": "039e0e25b0f443f4bd3d9947fdadc69efc586ff3",
+      "size": 131072,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/jfxmedia.dll",
+      "executable": false
+    },
+    {
+      "sha1": "0afa61ac7d006faaae61b5d644cb1570d58624f2",
+      "size": 96593408,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/jfxwebkit.dll",
+      "executable": false
+    },
+    {
+      "sha1": "df552810d779476610da3c8b956cc921ed6c91ae",
+      "size": 578384,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/msvcp140.dll",
+      "executable": false
+    },
+    {
+      "sha1": "b4629d51b5c4d8d78ccb3370b40a850f735b8949",
+      "size": 35704,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/msvcp140_1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "3f658bb9757f5a9d50c884605c7e04f00151237a",
+      "size": 267160,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/msvcp140_2.dll",
+      "executable": false
+    },
+    {
+      "sha1": "bc2511c675dd5b91788e4018abb4a6aff6969622",
+      "size": 10752,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/prism_common.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2be1bdc9b73d03cf60681b75cd6703d694f9d779",
+      "size": 179712,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/prism_d3d.dll",
+      "executable": false
+    },
+    {
+      "sha1": "c04ed921e8629b3efd527582c68eddde5d760af5",
+      "size": 57856,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/prism_sw.dll",
+      "executable": false
+    },
+    {
+      "sha1": "ba63e51ab3cd90666eb9a9bb0232502a5ec629ff",
+      "size": 982720,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/ucrtbase.dll",
+      "executable": false
+    },
+    {
+      "sha1": "00149b7a66723e3f0310f139489fe172f818ca8e",
+      "size": 109440,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/vcruntime140.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2050fadecc11550ad9bde0b542bcf87e19d37f1a",
+      "size": 49560,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javafx/vcruntime140_1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "923432bb49cfaf05aecb84e96b544432621ad0ab",
+      "size": 185512,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javajpeg.dll",
+      "executable": false
+    },
+    {
+      "sha1": "aabf707104430ceb5fb592f98ce6a1f27b41e3c2",
+      "size": 54952,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/javaw.exe",
+      "executable": false
+    },
+    {
+      "sha1": "a5de518eede0d9e04064ea667a514a055d853fa4",
+      "size": 21672,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jawt.dll",
+      "executable": false
+    },
+    {
+      "sha1": "9bb5ac45aac8767e31f055dddf5024515a17b91a",
+      "size": 34472,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jimage.dll",
+      "executable": false
+    },
+    {
+      "sha1": "5b1661cacb2b0366ad753b6b6407c71ea3ae1880",
+      "size": 92840,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jli.dll",
+      "executable": false
+    },
+    {
+      "sha1": "5e216a0a05ddfff3ec255c30916cdb1fc76445c8",
+      "size": 25256,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jrunscript.exe",
+      "executable": false
+    },
+    {
+      "sha1": "3e7132e3773335e5ddd7e04067cb10356a198ffe",
+      "size": 61608,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/jsound.dll",
+      "executable": false
+    },
+    {
+      "sha1": "5e0a60dbe918e43431c6e61b53b415c0e2235e6d",
+      "size": 24744,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/keytool.exe",
+      "executable": false
+    },
+    {
+      "sha1": "b07a2b4748d82828f3e2a00399b87ef8a7d2003a",
+      "size": 24744,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/kinit.exe",
+      "executable": false
+    },
+    {
+      "sha1": "13d00bb50d9825564e13334ab2023b910ecb6691",
+      "size": 24744,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/klist.exe",
+      "executable": false
+    },
+    {
+      "sha1": "15d6c09747ab41bf559c2b442187f1983291de7f",
+      "size": 24232,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/ktab.exe",
+      "executable": false
+    },
+    {
+      "sha1": "3f27ddd937608a7963d4aff882e3d9f7f4297bf2",
+      "size": 260264,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/lcms.dll",
+      "executable": false
+    },
+    {
+      "sha1": "b403d30116bef6b20f6c9e896c8876461c6774cf",
+      "size": 29864,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/management.dll",
+      "executable": false
+    },
+    {
+      "sha1": "224ceacbba55e53f3b23afec8ae4681c0d80c561",
+      "size": 37032,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/management_ext.dll",
+      "executable": false
+    },
+    {
+      "sha1": "85b4ad40b4c23ead98394bb68010ef31e56139d2",
+      "size": 520872,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/mlib_image.dll",
+      "executable": false
+    },
+    {
+      "sha1": "67bd76111b4ab8f4c0692919153dde2e7c8070f1",
+      "size": 575568,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/msvcp140.dll",
+      "executable": false
+    },
+    {
+      "sha1": "4269250a07e8cb9f63ba5851ace35f505ec631fa",
+      "size": 60584,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/net.dll",
+      "executable": false
+    },
+    {
+      "sha1": "803d08a9593afb37c6f2a4a95079bc586b05b89e",
+      "size": 81064,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/nio.dll",
+      "executable": false
+    },
+    {
+      "sha1": "8010a9006db4349bcbd9d344c0f931d0bcc4983d",
+      "size": 25768,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/prefs.dll",
+      "executable": false
+    },
+    {
+      "sha1": "e4df85c3bd525a970b4508e4fc55812388e3fd41",
+      "size": 21160,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/rmi.dll",
+      "executable": false
+    },
+    {
+      "sha1": "12fca36b231c5eb9ba5db09144a97124fda6b783",
+      "size": 25256,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/rmiregistry.exe",
+      "executable": false
+    },
+    {
+      "sha1": "0e9153ba07e2702229210c937370ed261145fc15",
+      "size": 13417128,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/server/jvm.dll",
+      "executable": false
+    },
+    {
+      "sha1": "64f36b40ea55b05869e4e1dc7bcac8f34791c2c1",
+      "size": 220328,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/splashscreen.dll",
+      "executable": false
+    },
+    {
+      "sha1": "9ccbfe0024e5cf5f6572f45809239ba29abac5a1",
+      "size": 45224,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/sspi_bridge.dll",
+      "executable": false
+    },
+    {
+      "sha1": "0baf2124d8ad841d82dbc38dd019ba2c3523568f",
+      "size": 28840,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/syslookup.dll",
+      "executable": false
+    },
+    {
+      "sha1": "aef1c0b9fdf7aaa115e3c0a285c8ca8603f3852d",
+      "size": 1361464,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/ucrtbase.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2ea840a5faa87a2fe8d7e5cb4367f2418077d66b",
+      "size": 120400,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/vcruntime140.dll",
+      "executable": false
+    },
+    {
+      "sha1": "523f515eed3af6d50e57a3eaeb906f4ccc1865fe",
+      "size": 49776,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/vcruntime140_1.dll",
+      "executable": false
+    },
+    {
+      "sha1": "86d4364bfc83858bb014731aec89c82711296bf1",
+      "size": 55464,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/verify.dll",
+      "executable": false
+    },
+    {
+      "sha1": "37126996e9c29dbd55356bb62ea1d6ae2fda9ecc",
+      "size": 31912,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/w2k_lsa_auth.dll",
+      "executable": false
+    },
+    {
+      "sha1": "4a16a9af9b39e432a04d39daba648470df0e0648",
+      "size": 72872,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/windowsaccessbridge-64.dll",
+      "executable": false
+    },
+    {
+      "sha1": "02563504a05767cf3ca5163ab776eed8928ec364",
+      "size": 89256,
+      "path": "jre_default/jre-21.0.11-windows-x64/bin/zip.dll",
+      "executable": false
+    },
+    {
+      "sha1": "2d44f54a9d0f8d41d3e932c585c4e4c56ab29d0e",
+      "size": 7302,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/jaxp.properties",
+      "executable": false
+    },
+    {
+      "sha1": "167808418571e9209b952188ddab2f4e62920e68",
+      "size": 2732,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/logging.properties",
+      "executable": false
+    },
+    {
+      "sha1": "69e86a02207c1126a0d9faf9362a8d1798b140ad",
+      "size": 7504,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/net.properties",
+      "executable": false
+    },
+    {
+      "sha1": "15b4d053bd3bc4d501e4c32a28c2586efed35232",
+      "size": 2294,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/java.policy",
+      "executable": false
+    },
+    {
+      "sha1": "33a647adfe0d921408c34c7d72827cd6b6bd2739",
+      "size": 72150,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/java.security",
+      "executable": false
+    },
+    {
+      "sha1": "7fb67e217c53a685cb9314001592b5bd50b5fbb9",
+      "size": 647,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/policy/limited/default_local.policy",
+      "executable": false
+    },
+    {
+      "sha1": "f3f974d3f6245c50804dcc47173aa29d4d7f0e2c",
+      "size": 146,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/policy/limited/default_US_export.policy",
+      "executable": false
+    },
+    {
+      "sha1": "ee67275bc119c98191a09ff72f043872b05ab7fd",
+      "size": 566,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/policy/limited/exempt_local.policy",
+      "executable": false
+    },
+    {
+      "sha1": "a97cd312d6a2a9c8c780c15e5af51a2f4f97c2cb",
+      "size": 2390,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/policy/README.txt",
+      "executable": false
+    },
+    {
+      "sha1": "ad2509631ed743c882999ac1200fd5fb8a593639",
+      "size": 193,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/policy/unlimited/default_local.policy",
+      "executable": false
+    },
+    {
+      "sha1": "f3f974d3f6245c50804dcc47173aa29d4d7f0e2c",
+      "size": 146,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/security/policy/unlimited/default_US_export.policy",
+      "executable": false
+    },
+    {
+      "sha1": "9afceb218059d981d0fa9f07aad3c5097cf41b0c",
+      "size": 1210,
+      "path": "jre_default/jre-21.0.11-windows-x64/conf/sound.properties",
+      "executable": false
+    },
+    {
+      "sha1": "0e6a7bfb3f7a08735f55e69470ba2fa3e8979e34",
+      "size": 21158,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/classfile_constants.h",
+      "executable": false
+    },
+    {
+      "sha1": "48b9bc46fc0d9ea7dee5256f165a85690170eea7",
+      "size": 11461,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/jawt.h",
+      "executable": false
+    },
+    {
+      "sha1": "9bbb8fed6a62823bb231031bd4a80478c3b2306e",
+      "size": 75021,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/jni.h",
+      "executable": false
+    },
+    {
+      "sha1": "8b54933af8e8fd6cc2540dc6f3db3c3ce2c85156",
+      "size": 84670,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/jvmti.h",
+      "executable": false
+    },
+    {
+      "sha1": "62c067a2272b60092c2effdfa31605634919bd0b",
+      "size": 3774,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/jvmticmlr.h",
+      "executable": false
+    },
+    {
+      "sha1": "127dde6490056eb416f67793dad2aa7ef6970fad",
+      "size": 4521,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/win32/bridge/AccessBridgeCallbacks.h",
+      "executable": false
+    },
+    {
+      "sha1": "88cd8becac7f7ae3d5f46e35dad87459f7b3fc91",
+      "size": 35053,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/win32/bridge/AccessBridgeCalls.h",
+      "executable": false
+    },
+    {
+      "sha1": "30b72de0fc339e7bcf58d0dac265ad1c7b07e89c",
+      "size": 76662,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/win32/bridge/AccessBridgePackages.h",
+      "executable": false
+    },
+    {
+      "sha1": "9406cdde8120119926f19a35cb9e108086cca541",
+      "size": 898,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/win32/jawt_md.h",
+      "executable": false
+    },
+    {
+      "sha1": "a7c61b8c25e2dc9efae742827de8b730d8b72fe1",
+      "size": 513,
+      "path": "jre_default/jre-21.0.11-windows-x64/include/win32/jni_md.h",
+      "executable": false
+    },
+    {
+      "sha1": "e64516f3fa1e72f88caa50f14b8046dd74d012b6",
+      "size": 1444,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/aes.md",
+      "executable": false
+    },
+    {
+      "sha1": "f0d36935f390d5276ed7fcd3ca557bd94b6a6787",
+      "size": 1582,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/asm.md",
+      "executable": false
+    },
+    {
+      "sha1": "cfc22a6f5b17cd539234d5b3160a5224abefadb9",
+      "size": 1556,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/c-libutl.md",
+      "executable": false
+    },
+    {
+      "sha1": "7b9093261f2ee18d438437304fa2ca450d82b93c",
+      "size": 9601,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/cldr.md",
+      "executable": false
+    },
+    {
+      "sha1": "fee1880f770c7fa3a5a32b4ec10b912e50aec551",
+      "size": 3244,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "627f6977cc4589b2c9df37fd7a2c974b42c266d3",
+      "size": 30197,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/icu.md",
+      "executable": false
+    },
+    {
+      "sha1": "e75e828ba2898c74b4a682ce5291a69acf9cc55a",
+      "size": 6186,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "ac2929c7d861bcb20e0182464c48b0375e30218b",
+      "size": 17783,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/public_suffix.md",
+      "executable": false
+    },
+    {
+      "sha1": "a666fb9d1d19d713ee9055dbaec4adc1dff03dae",
+      "size": 8256,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/siphash.md",
+      "executable": false
+    },
+    {
+      "sha1": "5e04f38136cf55c1ea61971e0c602afe60a53b53",
+      "size": 9078,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/unicode.md",
+      "executable": false
+    },
+    {
+      "sha1": "6c7d15e2b8f3e99527458c8ea33420ee1d34af7b",
+      "size": 1454,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/wepoll.md",
+      "executable": false
+    },
+    {
+      "sha1": "16825413e498c113d88fc2a716dcb4c8c7609b98",
+      "size": 1010,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.base/zlib.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.compiler/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.compiler/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.datatransfer/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.datatransfer/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "7a7e547452ee1c72e8b0d96dccbe315f62d5b564",
+      "size": 167,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/colorimaging.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "190e19922a2472a3800799cfc11f7e15e4de128f",
+      "size": 11938,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/freetype.md",
+      "executable": false
+    },
+    {
+      "sha1": "ab1d54d614c3d23b8c0e92d40d21d0c24664687f",
+      "size": 1646,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/giflib.md",
+      "executable": false
+    },
+    {
+      "sha1": "3dbfe0c4b7e2b781e828db31537ff85647c8ccf9",
+      "size": 3628,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/harfbuzz.md",
+      "executable": false
+    },
+    {
+      "sha1": "a937a169636558dc52f2e9c474af269a6b254f2b",
+      "size": 3474,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/jpeg.md",
+      "executable": false
+    },
+    {
+      "sha1": "d41ef689a55628b69fa662e2d33f96658367ed08",
+      "size": 2641,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/lcms.md",
+      "executable": false
+    },
+    {
+      "sha1": "a6f58fbc1b44c90d561693a02f528c0f2df0f026",
+      "size": 7419,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/libpng.md",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "6a98ee2703132e181f37d162452f073fb64ced83",
+      "size": 5732,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.desktop/mesa3d.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.instrument/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.instrument/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.logging/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.logging/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.management/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.management/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.management.rmi/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.management.rmi/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.naming/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.naming/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.net.http/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.net.http/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.prefs/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.prefs/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.rmi/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.rmi/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.scripting/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.scripting/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.se/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.se/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.security.jgss/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.security.jgss/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.security.sasl/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.security.sasl/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.sql/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.sql/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.sql.rowset/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.sql.rowset/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.transaction.xa/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.transaction.xa/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "82364f18ee8baa82944c85e9fd2f99a5e57f270f",
+      "size": 11196,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/bcel.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "4bf3f9908314b05f3b0f6e27be2c1fb7e25fffbb",
+      "size": 3761,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/dom.md",
+      "executable": false
+    },
+    {
+      "sha1": "fbdcbe5a7e7d91d440c200f5fb00e0cf6a81976c",
+      "size": 1448,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/jcup.md",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "4c8848d691430929295680b90762cf741aac440c",
+      "size": 13477,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/xalan.md",
+      "executable": false
+    },
+    {
+      "sha1": "94ef9f9f4bd2345bd10d330f3052727f4cf30a92",
+      "size": 11848,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml/xerces.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml.crypto/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml.crypto/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "1b291256aed6f0afe2775246fa8a91b33f492de2",
+      "size": 11505,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/java.xml.crypto/santuario.md",
+      "executable": false
+    },
+    {
+      "sha1": "1a5c553e71bdb7d94995b206bc9eaa49abd1e888",
+      "size": 2114,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.base/ADDITIONAL_LICENSE_INFO",
+      "executable": false
+    },
+    {
+      "sha1": "7a9b074ca8d783dbe5310ecc22f5538b65cc918e",
+      "size": 1522,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.base/ASSEMBLY_EXCEPTION",
+      "executable": false
+    },
+    {
+      "sha1": "a4fb972c240d89131ee9e16b845cd302e0ecb05f",
+      "size": 19274,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.base/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "f85c0fd9f8b04c4de25d85de56d4db11881e08ca",
+      "size": 51,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.controls/ADDITIONAL_LICENSE_INFO",
+      "executable": false
+    },
+    {
+      "sha1": "f81a2bcb42ccbf898d92f59a4dc4b63fef6c2848",
+      "size": 46,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.controls/ASSEMBLY_EXCEPTION",
+      "executable": false
+    },
+    {
+      "sha1": "3a2ddf103552fefe391f67263b393509eee3e807",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.controls/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "f85c0fd9f8b04c4de25d85de56d4db11881e08ca",
+      "size": 51,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO",
+      "executable": false
+    },
+    {
+      "sha1": "f81a2bcb42ccbf898d92f59a4dc4b63fef6c2848",
+      "size": 46,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.graphics/ASSEMBLY_EXCEPTION",
+      "executable": false
+    },
+    {
+      "sha1": "224055765ea328090334c8de25ed8f3360b70111",
+      "size": 2158,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.graphics/jpeg_fx.md",
+      "executable": false
+    },
+    {
+      "sha1": "3a2ddf103552fefe391f67263b393509eee3e807",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.graphics/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "99fb79d6021a07f4288ef115e93cbe1c5f746db7",
+      "size": 38,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.graphics/mesa3d.md",
+      "executable": false
+    },
+    {
+      "sha1": "f85c0fd9f8b04c4de25d85de56d4db11881e08ca",
+      "size": 51,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/ADDITIONAL_LICENSE_INFO",
+      "executable": false
+    },
+    {
+      "sha1": "f81a2bcb42ccbf898d92f59a4dc4b63fef6c2848",
+      "size": 46,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/ASSEMBLY_EXCEPTION",
+      "executable": false
+    },
+    {
+      "sha1": "2484425df3be1049de4016ed88e5518aa9751b35",
+      "size": 1165,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/directshow.md",
+      "executable": false
+    },
+    {
+      "sha1": "d545c7f4ed91260b174ca8820714bc58ce663388",
+      "size": 33096,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/glib.md",
+      "executable": false
+    },
+    {
+      "sha1": "1a2247773ea291c5c31bd282b13400372443d533",
+      "size": 37746,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/gstreamer.md",
+      "executable": false
+    },
+    {
+      "sha1": "2c9d8b71cf697c4ecd5a1d74f3762f8e6e9ecf36",
+      "size": 2562,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/libffi.md",
+      "executable": false
+    },
+    {
+      "sha1": "3a2ddf103552fefe391f67263b393509eee3e807",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.media/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "f85c0fd9f8b04c4de25d85de56d4db11881e08ca",
+      "size": 51,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.swing/ADDITIONAL_LICENSE_INFO",
+      "executable": false
+    },
+    {
+      "sha1": "f81a2bcb42ccbf898d92f59a4dc4b63fef6c2848",
+      "size": 46,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.swing/ASSEMBLY_EXCEPTION",
+      "executable": false
+    },
+    {
+      "sha1": "3a2ddf103552fefe391f67263b393509eee3e807",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.swing/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "f85c0fd9f8b04c4de25d85de56d4db11881e08ca",
+      "size": 51,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/ADDITIONAL_LICENSE_INFO",
+      "executable": false
+    },
+    {
+      "sha1": "f81a2bcb42ccbf898d92f59a4dc4b63fef6c2848",
+      "size": 46,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/ASSEMBLY_EXCEPTION",
+      "executable": false
+    },
+    {
+      "sha1": "acf3e7293f24725518ad4ac16140e638cf655338",
+      "size": 24768,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/icu_web.md",
+      "executable": false
+    },
+    {
+      "sha1": "dd0af9ecc1296b1df3fe8821fde3886d36ea3b0b",
+      "size": 3444,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/libxml2.md",
+      "executable": false
+    },
+    {
+      "sha1": "063c22bbfb0f039e89fb03130733c4969293e5a0",
+      "size": 6090,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/libxslt.md",
+      "executable": false
+    },
+    {
+      "sha1": "3a2ddf103552fefe391f67263b393509eee3e807",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "79eec153196f91cc68da30ba1667754c92fc5556",
+      "size": 342956,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/javafx.web/webkit.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.accessibility/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.accessibility/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.crypto.cryptoki/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.crypto.cryptoki/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "b7e8e7d09414d1ed56a1ab512957eb86309ac4b8",
+      "size": 4095,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.crypto.cryptoki/pkcs11cryptotoken.md",
+      "executable": false
+    },
+    {
+      "sha1": "e35415235ec3bbcb92beeceb03a9a8e7c13a6fce",
+      "size": 2131,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.crypto.cryptoki/pkcs11wrapper.md",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.crypto.ec/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.crypto.ec/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.jsobject/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.jsobject/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.management/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.management/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.net/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.net/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.unsupported/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.unsupported/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.unsupported.desktop/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.unsupported.desktop/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "3419ebac878fa53a9f0ff1617045ddaafb43dce0",
+      "size": 35,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.xml.dom/COPYRIGHT",
+      "executable": false
+    },
+    {
+      "sha1": "51ab20e8c19ee570bf6c496ec7346b7cf17bd04a",
+      "size": 33,
+      "path": "jre_default/jre-21.0.11-windows-x64/legal/jdk.xml.dom/LICENSE",
+      "executable": false
+    },
+    {
+      "sha1": "341630a959d814ef40c75cbfe1892f51d530bce5",
+      "size": 80610,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/classlist",
+      "executable": false
+    },
+    {
+      "sha1": "a297f3d435fab11aa3f0fd21eb2666a3ba1340ec",
+      "size": 4836,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/fontconfig.bfc",
+      "executable": false
+    },
+    {
+      "sha1": "9d79f25416f751b9b46692498a64913290448b66",
+      "size": 11615,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/fontconfig.properties.src",
+      "executable": false
+    },
+    {
+      "sha1": "d87867f5bb1c23562ae1c51e6def1ff4f75cbf4f",
+      "size": 36882,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/javafx-swt.jar",
+      "executable": false
+    },
+    {
+      "sha1": "e2d5e2a45420cc48573a5e99201c65a50555e5d2",
+      "size": 79,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/javafx.properties",
+      "executable": false
+    },
+    {
+      "sha1": "3a4f4e87cdcad54211bf76842477e257aa17a2df",
+      "size": 1682,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/jawt.lib",
+      "executable": false
+    },
+    {
+      "sha1": "967ba09b38b220d3df480f1451859932af6ba89a",
+      "size": 110109,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/jrt-fs.jar",
+      "executable": false
+    },
+    {
+      "sha1": "c5a940d2dee8e7bfc01a87d585ddca420d37e226",
+      "size": 29,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/jvm.cfg",
+      "executable": false
+    },
+    {
+      "sha1": "901b4b990d825aced6042ad979920b49bc6d0aa3",
+      "size": 1128604,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/jvm.lib",
+      "executable": false
+    },
+    {
+      "sha1": "20162443e1865d4cd0bcd2b15820e6652c1fd099",
+      "size": 88231356,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/modules",
+      "executable": false
+    },
+    {
+      "sha1": "56ed1c661eeede17b4fae8c9de7b5edbad387abc",
+      "size": 2796,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/psfont.properties.ja",
+      "executable": false
+    },
+    {
+      "sha1": "aa327a22a49967f4d74afeee6726f505f209692f",
+      "size": 10393,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/psfontj2d.properties",
+      "executable": false
+    },
+    {
+      "sha1": "aeaebb14fbf146fbb0aaf347446c08766c86ca7f",
+      "size": 2527,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/security/blocked.certs",
+      "executable": false
+    },
+    {
+      "sha1": "8ac5c4224e29351fb5d1242511652816361be139",
+      "size": 132316,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/security/cacerts",
+      "executable": false
+    },
+    {
+      "sha1": "3691dc410271080ce3e88ae6e419e272c2c61050",
+      "size": 11380,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/security/default.policy",
+      "executable": false
+    },
+    {
+      "sha1": "f6e03abd910fcb98bff5fba89db8d197434781ab",
+      "size": 230382,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/security/public_suffix_list.dat",
+      "executable": false
+    },
+    {
+      "sha1": "449cd5af08a45e2b017e670b3df9c8bf06de0c7e",
+      "size": 102820,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/tzdb.dat",
+      "executable": false
+    },
+    {
+      "sha1": "0cc871d5bd91e061d676a861749af68bbc0ca9c6",
+      "size": 22190,
+      "path": "jre_default/jre-21.0.11-windows-x64/lib/tzmappings",
+      "executable": false
+    },
+    {
+      "sha1": "999a690f2b1ebc031144f395fd651736923f5e6c",
+      "size": 553,
+      "path": "jre_default/jre-21.0.11-windows-x64/release",
+      "executable": false
+    }
+  ],
+  "remoteServerSHA1": false
+}

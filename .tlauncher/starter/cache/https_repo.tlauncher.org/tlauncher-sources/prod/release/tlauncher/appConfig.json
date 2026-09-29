@@ -1,0 +1,115 @@
+{
+  "comment": "Config file for desktop-starter example",
+  "appName": "tlauncher",
+  "appVersion": "2.9374",
+  "mainClass": "org.tlauncher.tlauncher.rmo.TLauncher",
+  "appArguments": [
+    "-starterConfig\u003d${starterConfig}",
+    "-requireUpdate\u003d${requireUpdate}",
+    "-currentAppVersion\u003d${currentAppVersion}",
+    "-starterDomainAvailabilityV1\u003d${starterDomainAvailabilityV1}",
+    "-country\u003d${country}",
+    "-starterJVM\u003d${starterJVM}",
+    "-starterWorkingDirectory\u003d${starterWorkingDirectory}",
+    "-starterJarFile\u003d${starterJarFile}",
+    "-starterFileEncoding\u003d${starterFileEncoding}",
+    "-runVersionWithServer\u003d${runVersionWithServer}"
+  ],
+  "jvmArguments": [
+    "-Dsun.java2d.uiScale.enabled\u003dfalse",
+    "-Xmx1536m",
+    "-Dfile.encoding\u003dUTF8",
+    "-Djava.net.preferIPv4Stack\u003dtrue",
+    "--add-opens\u003djava.base/java.lang\u003dALL-UNNAMED",
+    "--add-opens\u003djava.base/java.time\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.awt\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/sun.awt.image\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/sun.java2d\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.awt.color\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.awt.image\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/com.apple.eawt\u003dALL-UNNAMED",
+    "--add-opens\u003djava.base/java.util.regex\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/javax.swing\u003dALL-UNNAMED",
+    "--add-opens\u003djava.desktop/java.beans\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/com.sun.webkit.network\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/javafx.scene.web\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/com.sun.webkit\u003dALL-UNNAMED",
+    "--add-opens\u003djavafx.web/com.sun.webkit.event\u003dALL-UNNAMED"
+  ],
+  "appFileRepo": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://advancedrepository.net/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/release/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "6481f33b051e84b0c345e33ec784ba62d694544b",
+        "size": 5042616,
+        "path": "original-TLauncher-2.9374.jar",
+        "relativeUrl": "2.9374/original-TLauncher-2.9374.jar",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appResources": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://advancedrepository.net/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/release/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "ce8b11449203d40f1b281a09344158ed5756f06d",
+        "size": 18403,
+        "path": "resources.json",
+        "relativeUrl": "2.9374/resources.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "appDependencies": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://advancedrepository.net/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/release/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "6dbe109b2ef589f56ea2e651d862330b82bc53b6",
+        "size": 26096,
+        "path": "dependencies.json",
+        "relativeUrl": "2.9374/dependencies.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  },
+  "javaRepo": {
+    "repositories": [
+      "https://repo.tlauncher.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.fastrepo.org/tlauncher-sources/prod/release/tlauncher/",
+      "https://advancedrepository.net/tlauncher-sources/prod/release/tlauncher/",
+      "https://repo.tlauncher.ru/tlauncher-sources/prod/release/tlauncher/"
+    ],
+    "resources": [
+      {
+        "sha1": "81651b6c4b90180b227ded36618de3468af5d77b",
+        "size": 3664,
+        "path": "javaConfig21.json",
+        "relativeUrl": "javaConfig21.json",
+        "executable": false,
+        "link": ""
+      }
+    ],
+    "remoteServerSHA1": false
+  }
+}

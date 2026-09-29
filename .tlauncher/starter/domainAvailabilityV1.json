@@ -1,0 +1,46 @@
+{
+  "repo.fastrepo.org": {
+    "available": false,
+    "responseTime": 8002
+  },
+  "repo.tlauncher.org": {
+    "available": true,
+    "responseTime": 164
+  },
+  "page.tlauncher.org": {
+    "available": true,
+    "responseTime": 168
+  },
+  "repo.tl.vg": {
+    "available": false,
+    "responseTime": 8002
+  },
+  "stat.tlauncher.ru": {
+    "available": true,
+    "responseTime": 279
+  },
+  "resource.tlauncher.org": {
+    "available": true,
+    "responseTime": 163
+  },
+  "repo.tlauncher.ru": {
+    "available": true,
+    "responseTime": 194
+  },
+  "advancedrepository.net": {
+    "available": false,
+    "responseTime": 8004
+  },
+  "launchermeta.mojang.com": {
+    "available": true,
+    "responseTime": 437
+  },
+  "resource.fastrepo.org": {
+    "available": true,
+    "responseTime": 173
+  },
+  "stat.fastrepo.org": {
+    "available": false,
+    "responseTime": 8002
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "clientToken": "fb5c09b3-4d90-4894-a4ab-4ced558411b5",
+  "accounts": {
+    "fdd2709fd24342a486457c41b3673bf7": {
+      "username": "МистерПитер",
+      "userID": "МистерПитер",
+      "displayName": "МистерПитер",
+      "uuid": "fdd2709fd24342a486457c41b3673bf7",
+      "type": "free",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "fdd2709fd24342a486457c41b3673bf7",
+  "freeAccountUUID": "fdd2709fd24342a486457c41b3673bf7"
+}
